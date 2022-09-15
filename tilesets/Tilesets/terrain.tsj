@@ -1,0 +1,14 @@
+{ "columns":70,
+ "image":"..\/Bahnhof\/dbs\/terrain.png",
+ "imageheight":3200,
+ "imagewidth":2240,
+ "margin":0,
+ "name":"terrain",
+ "spacing":0,
+ "tilecount":7000,
+ "tiledversion":"1.9.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
