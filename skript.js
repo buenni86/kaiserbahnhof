@@ -17,7 +17,6 @@ WA.onInit(async () => {
         }
     }
 
-
     var zoneEVS = "evs-info";
     var zoneIntro = "intro";
     var zoneTutorial = "tutorial";
