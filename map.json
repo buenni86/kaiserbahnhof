@@ -4407,7 +4407,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1327.5,
@@ -4450,7 +4450,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2002.33333333333,
