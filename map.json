@@ -10294,19 +10294,6 @@
          "tilecount":28,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":4,
-         "firstgid":24436,
-         "image":"tilesets\/Bueromoebel\/Glasbox-Tisch.png",
-         "imageheight":128,
-         "imagewidth":128,
-         "margin":0,
-         "name":"Glasbox-Tisch",
-         "spacing":0,
-         "tilecount":16,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
