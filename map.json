@@ -4855,7 +4855,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"kaiserbahnhof.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapName",
