@@ -34,11 +34,16 @@ var msgFireplace = "Wusstest du, das dieser Kamin im Kaisersaal des Kaiserbahnho
 WA.room.onEnterLayer(zonePictureThree).subscribe(() => {
   currentPopup =  WA.ui.openPopup(popUpFireplace, msgFireplace, [
   {
-    label: labelTrain,
+  label: labelOk,
+    callback: (popup => {
+      closePopUp();
+    })
+  },
+  {
+  label: labelTrain,
     callback: (popup => {
       WA.nav.openTab(urlTrain);
       isCoWebSiteOpened = true;
-      closePopUp();
     })
   },
   {
@@ -46,7 +51,6 @@ WA.room.onEnterLayer(zonePictureThree).subscribe(() => {
     callback: (popup => {
       WA.nav.openTab(urlEmperorNikolaus);
       isCoWebSiteOpened = true;
-      closePopUp();
     })
   }]);
 })
