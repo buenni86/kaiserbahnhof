@@ -5755,7 +5755,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5788,7 +5788,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5821,7 +5821,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5854,7 +5854,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5887,7 +5887,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5920,7 +5920,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5953,7 +5953,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"test"
                         }, 
                         {
                          "name":"label",
@@ -5997,11 +5997,6 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"db-akademie"
                         }],
                  "rotation":0,
                  "visible":true,
