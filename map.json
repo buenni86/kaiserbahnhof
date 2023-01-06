@@ -2259,12 +2259,12 @@
                          "height":63,
                          "id":104,
                          "name":"whiteboard1",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard1 }}}"
+                                 "value":"{{{ glassbox1_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2349,12 +2349,12 @@
                          "height":63,
                          "id":105,
                          "name":"whiteboard2",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard2 }}}"
+                                 "value":"{{{ glassbox2_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2439,12 +2439,12 @@
                          "height":63,
                          "id":107,
                          "name":"whiteboard3",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard3 }}}"
+                                 "value":"{{{ glassbox3_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2529,12 +2529,12 @@
                          "height":63,
                          "id":108,
                          "name":"whiteboard4",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard4 }}}"
+                                 "value":"{{{ conference1_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2619,12 +2619,12 @@
                          "height":63,
                          "id":109,
                          "name":"whiteboard5",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard5 }}}"
+                                 "value":"{{{ conference2_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2709,12 +2709,12 @@
                          "height":63,
                          "id":110,
                          "name":"whiteboard6",
-                         "opacity":0,
+                         "opacity":1,
                          "properties":[
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard6 }}}"
+                                 "value":"{{{ conference3_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2804,7 +2804,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"{{{ dbakademieboard7 }}}"
+                                 "value":"{{{ stage_board }}}"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -2981,17 +2981,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube-nocookie.com\/embed\/dGZ0BiTaM2c"
+                         "value":"{{{ dj_zone }}}"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Klick auf das Icon unten rechts, wenn der DJ auflegen soll"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -5773,11 +5768,6 @@
                          "value":true
                         }, 
                         {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
-                        }, 
-                        {
                          "name":"writableBy",
                          "type":"string",
                          "value":"db-akademie"
@@ -5809,11 +5799,6 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
                         }, 
                         {
                          "name":"writableBy",
@@ -5849,11 +5834,6 @@
                          "value":true
                         }, 
                         {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
-                        }, 
-                        {
                          "name":"writableBy",
                          "type":"string",
                          "value":"db-akademie"
@@ -5887,11 +5867,6 @@
                          "value":true
                         }, 
                         {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
-                        }, 
-                        {
                          "name":"writableBy",
                          "type":"string",
                          "value":"db-akademie"
@@ -5906,7 +5881,7 @@
                  "class":"variable",
                  "height":0,
                  "id":22,
-                 "name":"conference1_board",
+                 "name":"conference2_board",
                  "point":true,
                  "properties":[
                         {
@@ -5923,11 +5898,6 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
                         }, 
                         {
                          "name":"writableBy",
@@ -5963,11 +5933,6 @@
                          "value":true
                         }, 
                         {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
-                        }, 
-                        {
                          "name":"writableBy",
                          "type":"string",
                          "value":"db-akademie"
@@ -5982,7 +5947,7 @@
                  "class":"variable",
                  "height":0,
                  "id":24,
-                 "name":"dbakademieboard7",
+                 "name":"stage_board",
                  "point":true,
                  "properties":[
                         {
@@ -5993,17 +5958,12 @@
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"DB Akademieboard Buehne:"
+                         "value":"B\u00fchne - Concept Board"
                         }, 
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"db-akademie"
                         }, 
                         {
                          "name":"writableBy",
@@ -6015,6 +5975,39 @@
                  "width":0,
                  "x":2097.33333333333,
                  "y":205.333333333333
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":39,
+                 "name":"dj_zone",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube-nocookie.com\/embed\/dGZ0BiTaM2c"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"DJs Playlist"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"db-akademie"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1112,
+                 "y":947
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6364,7 +6357,7 @@
          "y":0
         }],
  "nextlayerid":121,
- "nextobjectid":39,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
