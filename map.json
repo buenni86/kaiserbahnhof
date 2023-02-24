@@ -2259,7 +2259,7 @@
                          "height":63,
                          "id":104,
                          "name":"whiteboard1",
-                         "opacity":1,
+                         "opacity":0.97,
                          "properties":[
                                 {
                                  "name":"openWebsite",
@@ -5755,7 +5755,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/xi8x-4g44-dk3x-4u9h-duge"
                         }, 
                         {
                          "name":"label",
@@ -5788,7 +5788,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/23os-iq1k-dmf9-2fh2-7thf"
                         }, 
                         {
                          "name":"label",
@@ -5821,7 +5821,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/he1o-3aq9-6p0f-7qhx-9mt5"
                         }, 
                         {
                          "name":"label",
@@ -5854,7 +5854,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/utim-garm-hmd8-62at-a7em"
                         }, 
                         {
                          "name":"label",
@@ -5887,7 +5887,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/6yff-ag3b-dm07-6mx5-44cx"
                         }, 
                         {
                          "name":"label",
@@ -5920,7 +5920,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/771i-uspx-ha6s-sman-gthi"
                         }, 
                         {
                          "name":"label",
@@ -5953,7 +5953,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"test"
+                         "value":"https:\/\/app.conceptboard.com\/board\/ften-xpu9-1isg-n9u6-tt3e"
                         }, 
                         {
                          "name":"label",
